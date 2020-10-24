@@ -10,7 +10,7 @@ I'm Ana, a web developer in the making 👩‍💻  and a muso 🧑‍🎤. [Che
 
 🏝️ In my free time I sing, hang out with my cats, watch movies or play games. When the wheather is nice I like go to the beach and make sand animals.
 
-🕊️ If you have any questions/propositions or just want to say hi, feel free [send me an email](mailto:a.lastovirya@gmail.com). 
+🕊️ If you have any questions/propositions or just want to say hi, feel free to [send me an email](mailto:a.lastovirya@gmail.com). 
 
 <!--
 **chivoi/chivoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
