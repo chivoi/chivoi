@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi friends!
 
-I'm Ana, a web developer in the making 👩‍💻  and a muso 🧑‍🎤. [Check out my band!](https://renelophus.bandcamp.com/)
+I'm Ana, a web developer in the making and a muso.
 
-🤓 Currently doing a Full Stack Development bootcamp at Coder Academy, Melbourne. 
+👩‍💻  Half way through the Full Stack Development bootcamp at Coder Academy, Melbourne.
 
-🤖 Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
+🤖  Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
 
-🐣 So far I'm at my baby steps stage of learning, and I think I could greatly benefit from mentorship, so if you're looking for a mentee, hit me up!
+⚙️  Skills and tech stack:
 
-🏝️ In my free time I sing, hang out with my cats, watch movies or play games. When the wheather is nice I like go to the beach and make sand animals.
+<img src="https://img.icons8.com/color/50/000000/html-5.png"/> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/sass-avatar.png"/> <img src="https://api.iconify.design/logos:bootstrap.svg" width="48" height="48"/> <img src="https://img.icons8.com/color/50/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/50/000000/github--v1.png"/> <img src="https://img.icons8.com/color/50/000000/amazon-s3.png"/> <img src="https://api.iconify.design/logos:stripe.svg" width="48" height="48"/> <img src="https://img.icons8.com/color/50/000000/heroku.png"/> <img src="https://api.iconify.design/logos-netlify.svg" width="48" height="48"/> <img src="https://api.iconify.design/logos:postman.svg" width="48" height="48"/> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/dbeaver-icon.png" width="48" height="48"/> <img src="https://api.iconify.design/logos:visual-studio-code.svg" width="48" height="48"/>
 
-🕊️ If you have any questions/propositions or just want to say hi, feel free to [send me an email](mailto:a.lastovirya@gmail.com). 
+📖  Currently working on: learning JavaScript!
+
+🏝️  In my free time I sing, hang out with my cats, watch movies or play games. When the weather is nice I like go to the beach or waterfalls.
+
+🕊️  If you would like to say hi, feel free to [send me an email](mailto:a.lastovirya@gmail.com). 
+
 
 <!--
 **chivoi/chivoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
