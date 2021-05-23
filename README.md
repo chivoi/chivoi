@@ -14,7 +14,7 @@ I'm Ana, a web developer in the making.
 
 🏝️  Outside of coding I sing and play keys in [Renelophus](https://www.renelophus.com/), hang out with cats, watch movies or play games. When the weather is nice I like go to the beach or waterfalls.
 
-🕊️  If you would like to say hi, feel free to [send me an email](mailto:a.lastovirya@gmail.com). 
+🕊️  If you would like to say hi, feel free to [send me an email](mailto:ana.lastoviria@gmail.com). 
 
 
 <!--
