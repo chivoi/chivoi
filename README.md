@@ -15,8 +15,6 @@ I'm Ana, a full stack developer in the making.
 🏝️  Outside of coding I sing and play keys in [Renelophus](https://www.renelophus.com/), hang out with cats, watch movies or play games. When the weather is nice I like go to the beach or waterfalls.
 
 🕊️  If you would like to say hi, feel free to [send me an email](mailto:ana.lastoviria@gmail.com). 
-
-<img src="https://www.codewars.com/users/chivoi/badges/micro">
 <!--
 **chivoi/chivoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
