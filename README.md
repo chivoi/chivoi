@@ -2,13 +2,13 @@
 
 I'm Ana, a full stack software engineer.
 
-👩‍💻  Coder Academy bootcamp graduate.
+👩‍💻  Coder Academy bootcamp graduate, Software Engineering intern at Zendesk.
 
 🤖  Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
 
 ⚙️  Skills and tech stack:
 
-<img src="https://img.icons8.com/color/50/000000/html-5.png"/> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/sass-avatar.png"/> <img src="https://api.iconify.design/logos:bootstrap.svg" width="48" height="48"/> <img src="https://api.iconify.design/vscode-icons:file-type-js-official.svg" width="48" height="48"/> <img src="https://api.iconify.design/logos:react.svg" width="48" height="48"/> <img src="https://img.icons8.com/color/50/000000/ruby-programming-language.png"/> <img src="https://api.iconify.design/vscode-icons:file-type-rails.svg" width="48" height="48"/> <img src="https://img.icons8.com/color/50/000000/amazon-s3.png"/> <img src="https://img.icons8.com/color/50/000000/heroku.png"/> <img src="https://api.iconify.design/logos-netlify.svg" width="48" height="48"/>
+<img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="30" height="30"/> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="30" height="30"/> <img src="https://api.iconify.design/vscode-icons:file-type-scss2.svg" width="30" height="30"/> <img src="https://api.iconify.design/logos:bootstrap.svg" width="30" height="30"/> <img src="https://api.iconify.design/logos:javascript.svg" width="30" height="30"/> <img src="https://api.iconify.design/logos:typescript-icon.svg" width="30" height="30"/> <img src="https://api.iconify.design/logos:react.svg" width="30" height="30"/> <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" width="30" height="30"/> <img src="https://api.iconify.design/vscode-icons:file-type-rails.svg" width="30" height="30"/> <img src="https://img.icons8.com/color/50/000000/amazon-s3.png" width="30" height="30"/> <img src="https://api.iconify.design/logos:heroku-icon.svg" width="30" height="30"/> <img src="https://api.iconify.design/logos-netlify.svg" width="30" height="30"/>
 
 
 🏝️  Outside of coding I sing and play keys in [Renelophus](https://www.renelophus.com/), hang out with my cat Borsch, watch movies or play games. When the weather is nice I like go to the beach or waterfalls.
