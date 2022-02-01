@@ -2,7 +2,7 @@
 
 I'm Ana, a full stack software engineer.
 
-👩‍💻  Coder Academy bootcamp graduate, Software Engineering intern at Zendesk.
+👩‍💻  Coder Academy bootcamp graduate, Associate Software Engineer at Zendesk.
 
 🤖  Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
 
