@@ -4,6 +4,8 @@ I'm Ana (she/her), a full stack software engineer.
 
 👩‍💻  Software Engineer at Zendesk
 
+🧠  Fav technical things: TDD, refactoring, neat and readable code, friendly documentation.
+
 🤖  Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
 
 ⚙️  Skills and tech stack:
