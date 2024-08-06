@@ -1,6 +1,6 @@
 ### Hi friends!
 
-I'm Ana, a full stack software engineer.
+I'm Ana (she/her), a full stack software engineer.
 
 👩‍💻  Software Engineer at Zendesk
 
@@ -8,9 +8,9 @@ I'm Ana, a full stack software engineer.
 
 ⚙️  Skills and tech stack:
 
-<img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-scss2.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-node.svg" width="35" height="35"/> <img src="https://api.iconify.design/logos:react.svg" width="35" height="35"/> <img src="https://api.iconify.design/logos:typescript-icon.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-rails.svg" width="35"/>
+<img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-rails.svg" width="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-node.svg" width="35" height="35"/> <img src="https://api.iconify.design/logos:typescript-icon.svg" width="35" height="35"/> <img src="https://api.iconify.design/logos:react.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-scss2.svg" width="35" height="35"/> 
 
-🏝️  Outside of coding I sing and play keys in [Renelophus](https://www.renelophus.com/), hang out with my cat Borsch, watch movies or play games. When the weather is nice I like go to the beach or waterfalls.
+🏝️  Outside of coding I sing and play keys in [Renelophus](https://www.renelophus.com/), hang out with my cat Borsch, watch movies or play games. When the weather is nice I like to go to the beach or hiking.
 
 🕊️  If you would like to say hi, feel free to [send me an email](mailto:ana.lastoviria@gmail.com). 
 <!--
