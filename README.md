@@ -2,7 +2,7 @@
 
 I'm Ana (she/her), a software engineer at Zendesk.
 
-🫀  Security champion of my team, DEIB representative on Australia & New Zealand site council.
+🫀  Security champion of my team, representative on Australia & New Zealand site council.
 
 🤖  Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
 
