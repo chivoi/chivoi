@@ -1,18 +1,18 @@
 ### Hi friends!
 
-I'm Ana (she/her), a software engineer at Zendesk.
+I'm Ana (she/her), a software engineer and a technical communicator.
 
-🫀  Security champion of my team, representative on Australia & New Zealand site council.
+🕊️ Approaching work human-first: building with empathy, while growing and uplifting people around me.
 
-🤖  Passionate about technology, bringing positive change to the future, as well as increasing diversity and inclusivity in tech.
+🫀 Love clarity, structure, accessible and tasty designs. Can rant about knowledge-sharing in engineering for hours.
 
-🧠  Fav work things: TDD, refactoring, neat and readable code, friendly documentation, accessible practices.
+🛠️ Generalist affinity: all tools are cool, and the ones I prefer are the ones that are right for the job. ~~And TypeScript 😭~~
 
-⚙️  Skills and tech stack:
+⚙️ Tech stack:
 
 <img src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-rails.svg" width="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-node.svg" width="35" height="35"/> <img src="https://api.iconify.design/logos:typescript-icon.svg" width="35" height="35"/> <img src="https://api.iconify.design/logos:react.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" width="35" height="35"/> <img src="https://api.iconify.design/vscode-icons:file-type-scss2.svg" width="35" height="35"/> 
 
-🏝️  Outside of work I sing and play keys in [Renelophus](https://www.renelophus.com/), make pottery and hang out with my cat Borsch. When the weather is nice I climb hills or look at waterfalls.
+🏝️ Outside of work I write music, paint boardgame miniatures and hang out with my cat Borsch. When the weather is nice I climb hills or look at waterfalls.
 
 💌 If you would like to say hi, feel free to message me [on LinkedIn](https://www.linkedin.com/in/ana-lastoviria).
 <!--
